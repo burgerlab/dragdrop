@@ -8,6 +8,12 @@
 
 3. three
    * nested
+   
+1. Item1
+  1.1. SubItemA
+  1.2. SubItemB
+    - wat
+      - inception noise
 
 * [tx-appendix](https://github.com/burgerlab/whitepaper/tree/master/tx-appendix)
 >`Lorem ipsum` dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum.
