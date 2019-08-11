@@ -25,5 +25,9 @@ list of good things:
 
 ### test even smaller title 4
 
+[ ] apple
+[ ] apple 2
+[x] apple juice
+
 #### test even smaller title 5
  
