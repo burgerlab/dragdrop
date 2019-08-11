@@ -15,6 +15,12 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 
 ## test smaller title 3
 
+list of good things:
+
+* test 1
+* test 2
+* test 3
+
 ### test even smaller title 4
 
 #### test even smaller title 5
