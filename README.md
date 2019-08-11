@@ -9,7 +9,7 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 5 test
 ```
 
-https://assets.justinmind.com/blog/wp-content/uploads/2018/11/Lorem-Ipsum-alternatives.png
+<img src="https://assets.justinmind.com/blog/wp-content/uploads/2018/11/Lorem-Ipsum-alternatives.png"/>
 
 # test title 2
 
