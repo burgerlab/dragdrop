@@ -1,24 +1,11 @@
 # whitepapers
 
-1. one
-   * >`Lorem ipsum` dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum.
-
-2. two
-   * nested
-
-3. three
-   * nested
-
-1. Item1
-  1.1. SubItemA
-  1.2. SubItemB
-    - wat
-      - inception noise
-
-* [tx-appendix](https://github.com/burgerlab/whitepaper/tree/master/tx-appendix)
+[tx-appendix](https://github.com/burgerlab/whitepaper/tree/master/tx-appendix)
 >`Lorem ipsum` dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum.
-* word-salad-bonanza
-* burgerhash
+
+word-salad-bonanza
+
+burgerhash
 
 Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
 
