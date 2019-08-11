@@ -1,6 +1,6 @@
 # whitepapers
 
-* tx-appendix
+* [tx-appendix](https://github.com/burgerlab/whitepaper/tree/master/tx-appendix)
 * word-salad-bonanza
 * burgerhash
 
